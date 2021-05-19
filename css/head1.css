@@ -1,0 +1,123 @@
+h1{
+    text-align: center;
+    color: rgb(10, 97, 97);
+    border-style:dotted;
+    border-color:rgb(13, 218, 41);
+    background:#97a197;
+    margin: 40px;
+    margin-top: auto;
+}
+p{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:inherit;
+    color-adjust: 50px;
+    color: darkgoldenrod;
+}
+
+
+
+h4 {
+    color:red;
+    font-size: 30px;
+    background-color: magenta;
+    background-color: mediumturquoise;
+    
+}
+
+body{
+
+    background-color:blanchedalmond;
+    
+    background-repeat: no-repeat;
+}
+
+u.hi {
+    background-color:white;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0vmin;
+    margin: auto;
+}
+
+h2{
+    font-size: 30px;
+    font-style: italic;
+    border: mediumblue;
+}
+img{
+    size: 1510px;
+    width: 500px;
+    height: 500px;
+}
+
+div.frent{
+    font-size: 50px;
+    border: 7px solid springgreen;
+    padding: 50px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    background-color: wheat;
+    margin-left:110px;
+    margin-right:210px;
+    background-image: url(django.jpg);
+    background-repeat: no-repeat;
+\
+    
+
+}
+
+div.back{
+    
+    font-size: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid rgb(154, 209, 181);
+    padding: 60px;
+    padding-left: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: rgba(219, 241, 231, 0.685);
+    margin-left:150px;
+    margin-right: 250px;
+    background-image: url(adi.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+div.box{
+    font-size: 50px;
+    background-color: crimson;
+    width: 1350px;
+    padding:120px;
+    margin: 50px;
+    border: 10px solid rgb(61, 167, 12);
+
+}
+
+
+div.sps{
+    color: rgb(149, 250, 154);
+    font-size:30px;
+   
+    width: 900px;
+    padding: 150px;
+    margin: 10px;
+    border-color: green;
+    border-style: hidden;
+    border-right: lightseagreen;
+    background-color:rgb(109, 101, 56);
+    border: 0px;
+    font-display:10;   
+   min-height: 30px;
+    mix-width: 20px; 
+
+}
+
+mar{
+    height: 12px;
+    width: 8px;
+    font-size: 22px;
+    color: orange;
+    border: rgb(61, 167, 12);
+    background-color: steelblue;
+}
